@@ -21,7 +21,7 @@
 - Debian without system-d [read about why system-d is bloat](https://ebin.city/~werwolf/posts/systemd-sucks/).
 
 7. [Artix](https://artixlinux.org/)
-- Arch without system-d.
+- Arch without system-d. [read about why system-d is bloat, again](https://ebin.city/~werwolf/posts/systemd-sucks/).
 
 # Custom Kernel
 
