@@ -1,5 +1,6 @@
 remote_theme: muan/scribble
-title: false
+title: null
+name: Linux For Beginners
 show_downloads: false
 github:
   is_project_page: false
