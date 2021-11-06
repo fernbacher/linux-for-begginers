@@ -75,8 +75,9 @@
 
 - Unlock / add extra, testing and more package repositories: `nano /etc/pacman.conf` / `vim /etc/pacman.conf`
 
-# Do I Need To Use The Terminal In Linux?
+# Most Common Question
+`Do I Need To Use The Terminal In Linux?`
 
->Short answer, **Yes**.
+`Short answer, **Yes**.`
 
->Basic answer; You don't have to use it, but you should learn how to use it to an extent, it is about your full control over your Operating System, GUI applications can cover up terminal usage, but its not unlimited. Slowly but surely you should learn how to use the terminal for basic usage and even advanced.
+`Basic answer; You don't have to use it, but you should learn how to use it to an extent, it is about your full control over your Operating System, GUI applications can cover up terminal usage, but its not unlimited. Slowly but surely you should learn how to use the terminal for basic usage and even advanced.`
