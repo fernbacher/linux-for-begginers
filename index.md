@@ -1,4 +1,4 @@
-> **Linux For Beginners**
+` Linux For Beginners `
  
 # Distros I Recommend For A Beginner
 
