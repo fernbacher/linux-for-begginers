@@ -1,4 +1,4 @@
-remote_theme: moonharelabs/styless
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 title: Linux For Beginners
 show_downloads: false
 github:
