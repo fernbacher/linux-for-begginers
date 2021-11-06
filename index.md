@@ -18,7 +18,7 @@
 - Usually used for servers, it uses LTS (long term support) kernel, the base of ubuntu and many many others.
 
 6. [Devuan](https://www.devuan.org/)
-- Debian without system-d [read about why system-d is bloat](https://people.debian.org/~stapelberg/2013/06/09/systemd-bloat.html).
+- Debian without system-d [read about why system-d is bloat](https://ebin.city/~werwolf/posts/systemd-sucks/).
 
 7. [Artix](https://artixlinux.org/)
 - Arch without system-d.
