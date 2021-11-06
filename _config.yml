@@ -1,5 +1,6 @@
 remote_theme: P0WEX/Gesko
 title: Linux For Beginners
+description: My repo for people new to linux
 show_downloads: false
 github:
   is_project_page: false
