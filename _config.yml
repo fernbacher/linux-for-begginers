@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+theme: 
+remote_theme: Bilal2453/cayman-docs
 title: Linux For Beginners
 show_downloads: false
 github:
