@@ -1,9 +1,4 @@
-
-
-
-
-
-## DISTROS I RECOMMEND FOR A BEGINNER
+# DISTROS I RECOMMEND FOR A BEGINNER
 
 1. [Manjaro](https://manjaro.org/)
 - I recommend XFCE from the official editions.
