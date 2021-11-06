@@ -1,4 +1,4 @@
-## DISTROS I RECOMMEND FOR A BEGINNER
+# DISTROS I RECOMMEND FOR A BEGINNER
 
 1. [Manjaro](https://manjaro.org/)
 - I recommend XFCE from the official editions.
@@ -21,7 +21,7 @@
 7. [Artix](https://artixlinux.org/)
 - Arch without system-d.
 
-## CUSTOM KERNEL
+# CUSTOM KERNEL
 
 1. [Linux-Zen](https://github.com/zen-kernel/zen-kernel)
 - Result of a collaborative effort of kernel hackers to provide the best Linux kernel possible for everyday systems. Some more details can be found on [Liquorix](https://liquorix.net).
@@ -32,7 +32,7 @@
 3. [Configure Your Own](https://youtu.be/NVWVHiLx1sU)
 - Kinda outdated, but its a decent base to see what you can do and how hard/easy it is.
 
-## SOFTWARE
+# SOFTWARE
 
 1. [NoiseTorch](https://github.com/lawl/NoiseTorch)
 - This is the first thing you should consider getting on Linux if you use a normal mic or a headset mic, removes every background noise possible, some microphones can suffer a degrading quality if not set up right.
@@ -52,7 +52,7 @@
 6. [Spicetify-CLI](https://github.com/khanhas/spicetify-cli)
 - Command-line tool to customize the official Spotify client.
 
-## USEFUL
+# USEFUL
 
 1. [yay](https://github.com/Jguer/yay)
 - An AUR Helper written in Go. [What is AUR?](https://wiki.archlinux.org/title/Arch_User_Repository)
@@ -63,7 +63,7 @@
 3. [Linux From Scratch](https://www.linuxfromscratch.org/)
 - Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code. 
 
-## DO I NEED TO USE THE TERMINAL IN LINUX?
+# DO I NEED TO USE THE TERMINAL IN LINUX?
 
 >Short answer, **Yes**.
 
