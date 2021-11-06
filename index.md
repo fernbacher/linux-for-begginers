@@ -1,4 +1,4 @@
- # Linux For Beginners
+ ## Linux For Beginners
  
  - My repository for people new to linux.
  
