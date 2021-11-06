@@ -1,6 +1,5 @@
 remote_theme: P0WEX/Gesko
-title: null
-name: Linux For Beginners
+title: false
 show_downloads: false
 github:
   is_project_page: false
