@@ -67,11 +67,13 @@
 
 # Pacman Commands
 
-- Remove unused packages and their configuration files `pacman -Qtdq | pacman -Rns -`
+- Remove unused packages and their configuration files: `pacman -Qtdq | pacman -Rns -`
 
-- Upgrade packages `pacman -Syu`
+- Upgrade packages: `pacman -Syu`
 
-- Downgrade packages `pacman -Suu`
+- Downgrade packages: `pacman -Suu`
+
+- Unlock / add extra, testing and more package repositories: `nano /etc/pacman.conf` / `vim /etc/pacman.conf`
 
 # Do I Need To Use The Terminal In Linux?
 
