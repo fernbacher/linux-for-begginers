@@ -1,6 +1,4 @@
 remote_theme: moonharelabs/styless
-plugins: 
- - jekyll-remote-theme
 title: Linux For Beginners
 show_downloads: false
 github:
