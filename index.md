@@ -1,4 +1,4 @@
-`Linux For Beginners`
+**Linux For Beginners**
  
 # Distros I Recommend For A Beginner
 
@@ -64,6 +64,14 @@
 
 3. [Linux From Scratch](https://www.linuxfromscratch.org/)
 - Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code. 
+
+# Pacman Commands
+
+- Remove unused packages and their configuration files `pacman -Qtdq | pacman -Rns -`
+
+- Upgrade packages `pacman -Syu`
+
+- Downgrade packages `pacman -Suu`
 
 # Do I Need To Use The Terminal In Linux?
 
