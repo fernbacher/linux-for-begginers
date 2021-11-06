@@ -1,6 +1,4 @@
- ## Linux For Beginners
- 
- - My repository for people new to linux.
+
  
  ## DISTROS I RECOMMEND FOR A BEGINNER
 
