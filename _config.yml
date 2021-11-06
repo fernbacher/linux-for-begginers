@@ -1,4 +1,6 @@
-remote_theme: coogie/oscailte
+remote_theme: fernandopasik/jekyll-theme-material-docs
+plugins: 
+ - jekyll-remote-theme
 title: Linux For Beginners
 show_downloads: false
 github:
