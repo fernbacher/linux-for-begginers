@@ -6,16 +6,19 @@
 2. [Pop-OS](https://pop.system76.com/)
 - Nvidia version if you have NVIDIA GPU, obviously. Otherwise the normal one.
 
-3. [Arch-Linux-GUI](https://archlinuxgui.in/)
+3. [Archcraft](https://archcraft.io/)
+- Archcraft is just another Linux distribution, made on top of Arch Linux, beautifully configured it will automatically give you the r/unixporn dream desktop you kept seeing on reddit.
+
+4. [Arch-Linux-GUI](https://archlinuxgui.in/)
 - There are multiple DE versions, aswell as 2 WM versions. If you want to use your keyboard alot more and not focus on GUI anymore, go for WM, also alot slimmer on resourcers.
 
-4. [Debian](https://www.debian.org/)
+5. [Debian](https://www.debian.org/)
 - Usually used for servers, it uses LTS (long term support) kernel, the base of ubuntu and many many others.
 
-5. [Devuan](https://www.devuan.org/)
+6. [Devuan](https://www.devuan.org/)
 - Debian without system-d [read about why system-d is bloat](https://people.debian.org/~stapelberg/2013/06/09/systemd-bloat.html).
 
-6. [Artix](https://artixlinux.org/)
+7. [Artix](https://artixlinux.org/)
 - Arch without system-d.
 
 ## CUSTOM KERNEL
