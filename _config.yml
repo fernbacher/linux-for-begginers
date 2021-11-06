@@ -1,3 +1,4 @@
 theme: jekyll-theme-midnight
 title: Linux For Beginners
 show_downloads: false
+show_view_on_github: false
