@@ -1,6 +1,6 @@
 **Linux For Beginners**
  
-# Distros I Recommend For A Beginner
+# Distros
 
 1. [Manjaro](https://manjaro.org/)
 - I recommend XFCE from the official editions.
