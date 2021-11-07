@@ -6,17 +6,17 @@
  
 # Quick Links
  
- - [Distros#](https://fernbacher.github.io/linux-for-begginers/#distros)
+ - [Distros #](https://fernbacher.github.io/linux-for-begginers/#distros)
  
- - [Custom Kernel#](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
+ - [Custom Kernel #](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
  
- - [Software#](https://fernbacher.github.io/linux-for-begginers/#software)
+ - [Software #](https://fernbacher.github.io/linux-for-begginers/#software)
  
- - [Useful#](https://fernbacher.github.io/linux-for-begginers/#useful)
+ - [Useful #](https://fernbacher.github.io/linux-for-begginers/#useful)
  
- - [Pacman Commands#](https://fernbacher.github.io/linux-for-begginers/#pacman-commands)
+ - [Pacman Commands #](https://fernbacher.github.io/linux-for-begginers/#pacman-commands)
  
- - [Most Common Questions#](https://fernbacher.github.io/linux-for-begginers/#most-common-questions)
+ - [Most Common Questions #](https://fernbacher.github.io/linux-for-begginers/#most-common-questions)
  
  
 # Distros
