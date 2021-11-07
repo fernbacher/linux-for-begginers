@@ -103,5 +103,10 @@
 4. What is swap, should i use a swap file or a partition?
 - For this question i am going to link you towards the same channel with the calamares manual partitioning, here is the [video](https://www.youtube.com/watch?v=0mgefj9ibRE)
 
+5. Where can i find help for Linux?
+- Almost every distro has a wiki section, a forum, a server, or something to help you out, like the [Arch](https://fernbacher.github.io/linux-for-begginers/#useful) wiki linked above.
+
+6. Which Linux Distro should i install?
+- As a newbie, you should look forward to install something like [Manjaro](https://manjaro.org/) or [PopOS](https://pop.system76.com/), after spending some time on it, you can see what Linux can be, by doing it yourself, installing [Debian](https://www.debian.org/), [Arch](https://archlinux.org/) or their system-d free versions linked [at the top](https://fernbacher.github.io/linux-for-begginers/#distros)
 
 `Updated; 07.11.2021`
