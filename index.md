@@ -12,7 +12,7 @@ Its links to get you started, if you want to use linux, you have to document you
  
  <p allign-"center">
   
-  [Distros #](https://fernbacher.github.io/linux-for-begginers/#distros)
+  <a href="(https://fernbacher.github.io/linux-for-begginers/#distros)">Distros</a>
  
   [Custom Kernel #](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
  
