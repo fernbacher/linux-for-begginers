@@ -9,13 +9,8 @@ Its links to get you started, if you want to use linux, you have to document you
 </h2> 
 
 <h3 align="center"> Quick Links
+ </h3>
  
- <p allign-"center">
-  
-  <a href="(https://fernbacher.github.io/linux-for-begginers/#distros)">Distros</a>
-  -
-  <a href="(https://fernbacher.github.io/linux-for-begginers/#custom-kernel)">Custom Kernel</a>
-  
   [Software #](https://fernbacher.github.io/linux-for-begginers/#software)
   
   [Useful #](https://fernbacher.github.io/linux-for-begginers/#useful)
