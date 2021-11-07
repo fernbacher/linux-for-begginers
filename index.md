@@ -13,15 +13,15 @@ Its links to get you started, if you want to use linux, you have to document you
  <p allign-"center">
   
   <a href="(https://fernbacher.github.io/linux-for-begginers/#distros)">Distros</a>
- 
-  [Custom Kernel #](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
- 
+  -
+  <a href="(https://fernbacher.github.io/linux-for-begginers/#custom-kernel)">Custom Kernel</a>
+  
   [Software #](https://fernbacher.github.io/linux-for-begginers/#software)
- 
+  
   [Useful #](https://fernbacher.github.io/linux-for-begginers/#useful)
- 
+  
   [Pacman Commands #](https://fernbacher.github.io/linux-for-begginers/#pacman-commands)
- 
+  
   [Most Common Questions #](https://fernbacher.github.io/linux-for-begginers/#most-common-questions)
  </p>
  
