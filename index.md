@@ -85,7 +85,7 @@
 - **The official Arch Linux documentation webpage.**
 
 3. [Linux From Scratch](https://www.linuxfromscratch.org/)
-- **Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code. **
+- **Linux From Scratch (LFS) is a project that provides you with step-by-step instructions for building your own custom Linux system, entirely from source code.**
 
 4. [Brave, the false sensation of privacy](https://ebin.city/~werwolf/posts/brave-is-shit/)
 - **Why Brave is not what you may think it is.**
