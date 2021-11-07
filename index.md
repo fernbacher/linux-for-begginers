@@ -1,23 +1,29 @@
-**Linux For Beginners**
+<h1 align="center">
+ Linux For Beginners
+</h1>
+
+<h2 align="center">
+For people looking to join linux. This is not a spoonfeeding repository.
  
-**For people looking to join linux. This is not a spoonfeeding repository.** 
+Its links to get you started, if you want to use linux, you have to document yourself otherwise you'll get stuck and go back to windows or whatever you used.
+</h2> 
+
+<h3 align="center"> Quick Links
  
-**Its links to get you started, if you want to use linux, you have to document yourself otherwise you'll get stuck and go back to windows or whatever you used.**
+ <p allign-"center">
+  
+  [Distros #](https://fernbacher.github.io/linux-for-begginers/#distros)
  
-# Quick Links
+  [Custom Kernel #](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
  
- - [Distros #](https://fernbacher.github.io/linux-for-begginers/#distros)
+  [Software #](https://fernbacher.github.io/linux-for-begginers/#software)
  
- - [Custom Kernel #](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
+  [Useful #](https://fernbacher.github.io/linux-for-begginers/#useful)
  
- - [Software #](https://fernbacher.github.io/linux-for-begginers/#software)
+  [Pacman Commands #](https://fernbacher.github.io/linux-for-begginers/#pacman-commands)
  
- - [Useful #](https://fernbacher.github.io/linux-for-begginers/#useful)
- 
- - [Pacman Commands #](https://fernbacher.github.io/linux-for-begginers/#pacman-commands)
- 
- - [Most Common Questions #](https://fernbacher.github.io/linux-for-begginers/#most-common-questions)
- 
+  [Most Common Questions #](https://fernbacher.github.io/linux-for-begginers/#most-common-questions)
+ </p>
  
 # Distros
 
