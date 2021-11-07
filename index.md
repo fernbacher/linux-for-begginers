@@ -131,4 +131,4 @@
 
 `Made with love for what Linux is about and what it offers us.`
 
-**Theme used; [Gesko by P0WEX](https://github.com/P0WEX/Gesko)**
+ **Theme used; [Gesko by P0WEX](https://github.com/P0WEX/Gesko)**
