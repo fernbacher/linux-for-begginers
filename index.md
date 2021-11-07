@@ -4,7 +4,7 @@
  
 **Its links to get you started, if you want to use linux, you have to document yourself otherwise you'll get stuck and go back to windows or whatever you used.**
  
- # Quick Links
+# Quick Links
  
  - [**Distros#**](https://fernbacher.github.io/linux-for-begginers/#distros)
  
