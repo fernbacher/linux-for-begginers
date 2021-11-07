@@ -5,12 +5,12 @@
 **Its links to get you started, if you want to use linux, you have to document yourself otherwise you'll get stuck and go back to windows or whatever you used.**
  
  # Quick Links
-  [**Distros#**](https://fernbacher.github.io/linux-for-begginers/#distros)
-  [**Custom Kernel#**](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
-  [**Software#**](https://fernbacher.github.io/linux-for-begginers/#software)
-  [**Useful#**](https://fernbacher.github.io/linux-for-begginers/#useful)
-  [**Pacman Commands#**](https://fernbacher.github.io/linux-for-begginers/#pacman-commands)
-  [**Most Common Questions#**](https://fernbacher.github.io/linux-for-begginers/#most-common-questions)
+ -[**Distros#**](https://fernbacher.github.io/linux-for-begginers/#distros)
+ -[**Custom Kernel#**](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
+ -[**Software#**](https://fernbacher.github.io/linux-for-begginers/#software)
+ -[**Useful#**](https://fernbacher.github.io/linux-for-begginers/#useful)
+ -[**Pacman Commands#**](https://fernbacher.github.io/linux-for-begginers/#pacman-commands)
+ -[**Most Common Questions#**](https://fernbacher.github.io/linux-for-begginers/#most-common-questions)
  
  
 # Distros
