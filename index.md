@@ -75,6 +75,9 @@
 5. [Firefox Profile Maker](https://ffprofile.com)
 - Tool to create your own profile for fireox to import.
 
+6. [Ratpoison:Kill the rat](https://ebin.city/~werwolf/posts/ratpoison/)
+- [Ratpoison](http://ratpoison.nongnu.org/) is a simple Window Manager with no fat library dependencies, no fancy graphics, no window decorations, and no rodent dependence, the first link has more helpful information in it.
+
 # Pacman Commands
 
 - Remove unused packages and their configuration files: `pacman -Qtdq | pacman -Rns -`
