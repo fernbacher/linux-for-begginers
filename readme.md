@@ -7,6 +7,9 @@ For people looking to join linux. This is not a spoonfeeding repository.
 </h2> 
 
 # Quick Links
+  
+  **[CHECK THE WEBSITE](https://fernbacher.github.io/linux-for-begginers/)**
+  
   [Distros #](https://fernbacher.github.io/linux-for-begginers/#distros)
   
   [Custom Kernel #](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
