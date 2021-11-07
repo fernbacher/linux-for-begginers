@@ -96,6 +96,9 @@
 6. [Ratpoison: Kill the rat](https://ebin.city/~werwolf/posts/ratpoison/)
 - [Ratpoison](http://ratpoison.nongnu.org/) is a simple Window Manager with no fat library dependencies, no fancy graphics, no window decorations, and no rodent dependence, the first link has more helpful information in it.
 
+7. [Polybar-MPV](https://github.com/randomdude8/polybar-mpv)
+- Display current playing file and scrolls the text with [zscroll](https://github.com/noctuid/zscroll), cycle pause and volume control, simple to edit and easily expandable. Made by an old friend.
+
 # Pacman Commands
 
 - Remove unused packages and their configuration files: `pacman -Qtdq | pacman -Rns -`
