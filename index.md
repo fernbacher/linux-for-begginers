@@ -71,7 +71,7 @@
 - **Custom build of Valve's proton, multiple patches and fixes for steam games using proton.**
 
 5. [Spotify-TUI](https://github.com/Rigellute/spotify-tui)
-- **A spotify client in the terminal written in Rust. **FOR PREMIUM ACCOUNTS ONLY**
+- **A spotify client in the terminal written in Rust.** **FOR PREMIUM ACCOUNTS ONLY**
 
 6. [Spicetify-CLI](https://github.com/khanhas/spicetify-cli)
 - **Command-line tool to customize the official Spotify client.**
