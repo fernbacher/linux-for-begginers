@@ -4,9 +4,9 @@
 
 <h2 align="center">
 For people looking to join linux. This is not a spoonfeeding repository.
- 
-Its links to get you started, if you want to use linux, you have to document yourself otherwise you'll get stuck and go back to windows or whatever you used.
 </h2> 
+
+This is a redirecting repository to get you started, if you want to use linux, you have to document yourself otherwise you'll get stuck and go back to windows or whatever you used.
 
 <h3 align="center"> Quick Links
  </h3>
