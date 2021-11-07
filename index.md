@@ -38,7 +38,7 @@
 3. [Configure Your Own](https://youtu.be/NVWVHiLx1sU)
 - Kinda outdated, but its a decent base to see what you can do and how hard/easy it is.
 
-4.[Clear-Linux](https://aur.archlinux.org/packages/linux-clear/)
+4. [Clear-Linux](https://aur.archlinux.org/packages/linux-clear/)
 - The Clear Linux kernel and modules, from the AUR.
 
 # Software
