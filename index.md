@@ -88,16 +88,20 @@
 
 - Unlock / add extra, testing and more package repositories: `nano /etc/pacman.conf` / `vim /etc/pacman.conf`
 
-# Most Common Question
-***Do I Need To Use The Terminal In Linux?***
+# Most Common Questions
 
-***Short answer, Yes.***
+1. Do I Need To Use The Terminal In Linux?
+- Short answer, Yes.
+- Basic answer; You don't have to use it, but you should learn how to use it to an extent, it is about your full control over your Operating System, GUI applications can cover up terminal usage, but its not unlimited. Slowly but surely you should learn how to use the terminal for basic usage and even advanced.
 
-***Basic answer; You don't have to use it, but you should learn how to use it to an extent, it is about your full control over your Operating System, GUI applications can cover up terminal usage, but its not unlimited. Slowly but surely you should learn how to use the terminal for basic usage and even advanced.***
+2. What is [GNU](https://www.gnu.org/gnu/linux-and-gnu.en.html)/[Linux](https://www.linux.com/what-is-linux/), and why should/would i use it?
+- Click for information.
 
+3. How can i manually partition with calamares?
+- For calamares, here is a [tutorial](https://www.youtube.com/watch?v=lBvps3VwEZs)
 
-
-
+4. What is swap, should i use a swap file or a partition?
+- For this question i am going to link you towards the same channel with the calamares manual partitioning, here is the [video](https://www.youtube.com/watch?v=0mgefj9ibRE)
 
 
 `Updated; 07.11.2021`
