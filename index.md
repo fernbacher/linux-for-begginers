@@ -101,6 +101,9 @@ For people looking to join linux. This is not a spoonfeeding repository.
 7. [Polybar-MPV](https://github.com/randomdude8/polybar-mpv)
 - Display current playing file and scrolls the text with [zscroll](https://github.com/noctuid/zscroll), cycle pause and volume control, simple to edit and easily expandable. Made by an old friend.
 
+8. [Gamepads/Controllers](https://aur.archlinux.org/packages/xboxdrv/)
+- Use any USB Gamepad that you would normally use in windows, to use a PS3/PS4 controller, run this command in the terminal `sudo xboxdrv --detach-kernel-driver`
+
 # Pacman Commands
 
 - Remove unused packages and their configuration files: `pacman -Qtdq | pacman -Rns -`
