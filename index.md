@@ -104,6 +104,9 @@ For people looking to join linux. This is not a spoonfeeding repository.
 8. [Gamepads/Controllers](https://aur.archlinux.org/packages/xboxdrv/)
 - Use any USB Gamepad that you would normally use in windows, to use a PS3/PS4 controller, run this command in the terminal `sudo xboxdrv --detach-kernel-driver`
 
+9. [Chaotic AUR](https://aur.chaotic.cx/)
+- Automated building repository for AUR packages.
+
 # Pacman Commands
 
 - Remove unused packages and their configuration files: `pacman -Qtdq | pacman -Rns -`
