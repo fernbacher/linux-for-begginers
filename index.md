@@ -102,7 +102,7 @@ For people looking to join linux. This is not a spoonfeeding repository.
 - Display current playing file and scrolls the text with [zscroll](https://github.com/noctuid/zscroll), cycle pause and volume control, simple to edit and easily expandable. Made by an old friend.
 
 8. [Gamepads/Controllers](https://aur.archlinux.org/packages/xboxdrv/)
-- Use any USB Gamepad that you would normally use in windows, to use a PS3/PS4 controller, run this command in the terminal `sudo xboxdrv --detach-kernel-driver`
+- Use any USB Gamepad that you would normally use in windows, to use a PS3/PS4 controller, run this command in the terminal `sudo xboxdrv --detach-kernel-driver`.
 
 9. [Chaotic AUR](https://aur.chaotic.cx/)
 - Automated building repository for AUR packages.
@@ -138,7 +138,10 @@ For people looking to join linux. This is not a spoonfeeding repository.
 6. Which Linux Distro should i install?
 - As a newbie, you should look forward to install something like [Manjaro](https://manjaro.org/) or [PopOS](https://pop.system76.com/), after spending some time on it, you can see what Linux can be, by doing it yourself, installing [Debian](https://www.debian.org/), [Arch](https://archlinux.org/) or their system-d free versions linked [at the top](https://fernbacher.github.io/linux-for-begginers/#distros)
 
-`Updated; 09.11.2021`
+7. How can i extract a .tar.zst archive?
+- Run the command `tar --use-compress-program=unzstd -xvf yourarchivename.tar.zst`
+
+`Updated; 10.11.2021`
 
  **Made with love for what Linux is about and what it offers us, by [Fernbacher](https://github.com/fernbacher).**
 
