@@ -107,6 +107,10 @@ For people looking to join linux. This is not a spoonfeeding repository.
 9. [Chaotic AUR](https://aur.chaotic.cx/)
 - Automated building repository for AUR packages.
 
+10. [Wine-TKG](https://github.com/Frogging-Family/wine-tkg-git)
+- Wine-tkg is a build-system aiming at easier custom wine builds creation. You can now easily get the "plain wine + pba + steam fix" build. (Can be installed from Chaotic-AUR)
+
+
 # Pacman Commands
 
 - Remove unused packages and their configuration files: `pacman -Qtdq | pacman -Rns -`
@@ -141,7 +145,7 @@ For people looking to join linux. This is not a spoonfeeding repository.
 7. How can i extract a .tar.zst archive?
 - Run the command `tar --use-compress-program=unzstd -xvf yourarchivename.tar.zst`
 
-`Updated; 10.11.2021`
+`Updated; 13.11.2021`
 
  **Made with love for what Linux is about and what it offers us, by [Fernbacher](https://github.com/fernbacher).**
 
