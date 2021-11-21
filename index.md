@@ -39,10 +39,13 @@ For people looking to join linux. This is not a spoonfeeding repository.
 - Usually used for servers, it uses LTS (long term support) kernel, the base of ubuntu and many many others.
 
 6. [Devuan](https://www.devuan.org/)
-- Debian without system-d [read about why system-d is bloat](https://ebin.city/~werwolf/posts/systemd-sucks/).
+- Debian without system-d [read about why system-d could be bloat for you](https://ebin.city/~werwolf/posts/systemd-sucks/).
 
 7. [Artix](https://artixlinux.org/)
-- Arch without system-d. [read about why system-d is bloat, again](https://ebin.city/~werwolf/posts/systemd-sucks/).
+- Arch without system-d. [read about why system-d could be bloat for you, again](https://ebin.city/~werwolf/posts/systemd-sucks/).
+
+8. [Arch](https://archlinux.org/)
+- A simple, lightweight distribution
 
 # Custom Kernel
 
@@ -110,6 +113,8 @@ For people looking to join linux. This is not a spoonfeeding repository.
 10. [Wine-TKG](https://github.com/Frogging-Family/wine-tkg-git)
 - Wine-tkg is a build-system aiming at easier custom wine builds creation. You can now easily get the "plain wine + pba + steam fix" build. (Can be installed from Chaotic-AUR)
 
+11. [Dusk](https://github.com/bakkeby/dusk)
+-Just another fork of dwm. (Personally use it)
 
 # Pacman Commands
 
@@ -145,7 +150,7 @@ For people looking to join linux. This is not a spoonfeeding repository.
 7. How can i extract a .tar.zst archive?
 - Run the command `tar --use-compress-program=unzstd -xvf yourarchivename.tar.zst`
 
-`Updated; 13.11.2021`
+`Updated; 21.11.2021`
 
  **Made with love for what Linux is about and what it offers us, by [Fernbacher](https://github.com/fernbacher).**
 
