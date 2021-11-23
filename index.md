@@ -114,7 +114,7 @@ For people looking to join linux. This is not a spoonfeeding repository.
 - Wine-tkg is a build-system aiming at easier custom wine builds creation. You can now easily get the "plain wine + pba + steam fix" build. (Can be installed from Chaotic-AUR)
 
 11. [Dusk](https://github.com/bakkeby/dusk)
--Just another fork of dwm. (Personally use it)
+- Just another fork of dwm. (Personally use it)
 
 # Pacman Commands
 
