@@ -148,7 +148,7 @@ For people looking to join linux. This is not a spoonfeeding repository.
 - As a newbie, you should look forward to install something like [Manjaro](https://manjaro.org/) or [PopOS](https://pop.system76.com/), after spending some time on it, you can see what Linux can be, by doing it yourself, installing [Debian](https://www.debian.org/), [Arch](https://archlinux.org/) or their system-d free versions linked [at the top](https://fernbacher.github.io/linux-for-begginers/#distros)
 
 7. How can i extract a .tar.zst archive?
-- Run the command `tar --use-compress-program=unzstd -xvf yourarchivename.tar.zst`
+- Run the command `tar -xvf yourarchivename.tar.zst`
 
 `Updated; 23.11.2021`
 
