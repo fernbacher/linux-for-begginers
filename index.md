@@ -24,7 +24,7 @@ For people looking to join linux. This is not a spoonfeeding repository.
 # Distros
 
 1. [Manjaro](https://manjaro.org/)
-- I recommend XFCE from the official editions.
+- I recommend KDE/XFCE from the official editions.
 
 2. [Pop-OS](https://pop.system76.com/)
 - Nvidia version if you have NVIDIA GPU, obviously. Otherwise the normal one.
@@ -150,7 +150,7 @@ For people looking to join linux. This is not a spoonfeeding repository.
 7. How can i extract a .tar.zst archive?
 - Run the command `tar --use-compress-program=unzstd -xvf yourarchivename.tar.zst`
 
-`Updated; 21.11.2021`
+`Updated; 23.11.2021`
 
  **Made with love for what Linux is about and what it offers us, by [Fernbacher](https://github.com/fernbacher).**
 
