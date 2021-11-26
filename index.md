@@ -7,6 +7,10 @@ For people looking to join linux. This is not a spoonfeeding repository.
 </h2> 
 
 # Quick Links
+  [Reasons not to use Microsoft](https://stallman.org/microsoft.html)
+  
+  [Reasons not to use Apple](https://stallman.org/apple.html)
+  
   [Distros #](https://fernbacher.github.io/linux-for-begginers/#distros)
   
   [Custom Kernel #](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
