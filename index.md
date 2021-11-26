@@ -29,22 +29,25 @@ For people looking to join linux. This is not a spoonfeeding repository.
 2. [Pop-OS](https://pop.system76.com/)
 - Nvidia version if you have NVIDIA GPU, obviously. Otherwise the normal one.
 
-3. [Archcraft](https://archcraft.io/)
+3. [Linux Mint](https://linuxmint.com/)
+- Most Windows-Like experience you can have, recommend it the most for new users that just want simplicity and to get rid of Windows.
+
+5. [Archcraft](https://archcraft.io/)
 - Archcraft is just another Linux distribution, made on top of Arch Linux, beautifully configured it will automatically give you the r/unixporn dream desktop you kept seeing on reddit.
 
-4. [Arch-Linux-GUI](https://archlinuxgui.in/)
+5. [Arch-Linux-GUI](https://archlinuxgui.in/)
 - There are multiple DE versions, aswell as 2 WM versions. If you want to use your keyboard alot more and not focus on GUI anymore, go for WM, also alot slimmer on resourcers.
 
-5. [Debian](https://www.debian.org/)
+6. [Debian](https://www.debian.org/)
 - Usually used for servers, it uses LTS (long term support) kernel, the base of ubuntu and many many others.
 
-6. [Devuan](https://www.devuan.org/)
+7. [Devuan](https://www.devuan.org/)
 - Debian without system-d [read about why system-d could be bloat for you](https://ebin.city/~werwolf/posts/systemd-sucks/).
 
-7. [Artix](https://artixlinux.org/)
+8. [Artix](https://artixlinux.org/)
 - Arch without system-d. [read about why system-d could be bloat for you, again](https://ebin.city/~werwolf/posts/systemd-sucks/).
 
-8. [Arch](https://archlinux.org/)
+9. [Arch](https://archlinux.org/)
 - A simple, lightweight distribution
 
 # Custom Kernel
@@ -145,12 +148,12 @@ For people looking to join linux. This is not a spoonfeeding repository.
 - Almost every distro has a wiki section, a forum, a server, or something to help you out, like the [Arch](https://fernbacher.github.io/linux-for-begginers/#useful) wiki linked above.
 
 6. Which Linux Distro should i install?
-- As a newbie, you should look forward to install something like [Manjaro](https://manjaro.org/) or [PopOS](https://pop.system76.com/), after spending some time on it, you can see what Linux can be, by doing it yourself, installing [Debian](https://www.debian.org/), [Arch](https://archlinux.org/) or their system-d free versions linked [at the top](https://fernbacher.github.io/linux-for-begginers/#distros)
+- As a newbie, you should look forward to install something like [Manjaro](https://manjaro.org/), [PopOS](https://pop.system76.com/) or [Linux Mint](https://linuxmint.com/) after spending some time on it, you can see what Linux can be, by doing it yourself, installing [Debian](https://www.debian.org/), [Arch](https://archlinux.org/) or their system-d free versions linked [at the top](https://fernbacher.github.io/linux-for-begginers/#distros)
 
 7. How can i extract a .tar.zst archive?
 - Run the command `tar -xvf yourarchivename.tar.zst`
 
-`Updated; 23.11.2021`
+`Updated; 26.11.2021`
 
  **Made with love for what Linux is about and what it offers us, by [Fernbacher](https://github.com/fernbacher).**
 
