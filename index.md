@@ -125,7 +125,7 @@ For people looking to join linux. This is not a spoonfeeding repository.
 11. [Dusk](https://github.com/bakkeby/dusk)
 - Just another fork of dwm. (Personally use it)
 
-12. [LARBS}(https://larbs.xyz/)
+12. [LARBS](https://larbs.xyz/)
 - LARBS is an efficient shell script that will install a fully-featured tiling window manager-based system on any Arch or Artix Linux-based system, without any of the routine of manual post-install processes and configuration.
 
 # Pacman Commands
