@@ -162,7 +162,7 @@ For people looking to join linux. This is not a spoonfeeding repository.
 7. How can i extract a .tar.zst archive?
 - Run the command `tar -xvf yourarchivename.tar.zst`
 
-`Updated; 26.11.2021`
+`Updated; 28.11.2021`
 
  **Made with love for what Linux is about and what it offers us, by [Fernbacher](https://github.com/fernbacher).**
 
