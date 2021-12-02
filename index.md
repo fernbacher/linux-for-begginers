@@ -38,22 +38,19 @@ For people looking to join linux. This is not a spoonfeeding repository.
 3. [Linux Mint](https://linuxmint.com/)
 - Most Windows-Like experience you can have, recommend it the most for new users that just want simplicity and to get rid of Windows.
 
-5. [Archcraft](https://archcraft.io/)
-- Archcraft is just another Linux distribution, made on top of Arch Linux, beautifully configured it will automatically give you the r/unixporn dream desktop you kept seeing on reddit. **WARNING: Even for an advanced user, it's a pain in the ass to make it good. Very bloated for no reason, if the creator ever reads this, just make them scripts to install the DE/WM.**
+4. [Arch-Linux-GUI](https://archlinuxgui.in/)
+- There are multiple DE versions, aswell as 2 WM versions. If you want to use your keyboard alot more, go for WM, also alot slimmer on resources.
 
-5. [Arch-Linux-GUI](https://archlinuxgui.in/)
-- There are multiple DE versions, aswell as 2 WM versions. If you want to use your keyboard alot more and not focus on GUI anymore, go for WM, also alot slimmer on resourcers.
-
-6. [Debian](https://www.debian.org/)
+5. [Debian](https://www.debian.org/)
 - Usually used for servers, it uses LTS (long term support) kernel, the base of ubuntu and many many others.
 
-7. [Devuan](https://www.devuan.org/)
+6. [Devuan](https://www.devuan.org/)
 - Debian without system-d [read about why system-d could be bloat for you](https://ebin.city/~werwolf/posts/systemd-sucks/).
 
-8. [Artix](https://artixlinux.org/)
+7. [Artix](https://artixlinux.org/)
 - Arch without system-d. [read about why system-d could be bloat for you, again](https://ebin.city/~werwolf/posts/systemd-sucks/).
 
-9. [Arch](https://archlinux.org/)
+8. [Arch](https://archlinux.org/)
 - A simple, lightweight distribution
 
 # Custom Kernel
