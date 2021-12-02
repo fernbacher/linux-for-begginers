@@ -65,7 +65,7 @@ For people looking to join linux. This is not a spoonfeeding repository.
 - XanMod is a general-purpose Linux kernel distribution with custom settings and new features. Built to provide a stable, responsive and smooth desktop experience.
 
 3. [Linux-TKG](https://github.com/Frogging-Family/linux-tkg)
--This repository provides scripts to automatically download, patch and compile the Linux Kernel from the official Linux git repository, with a selection of patches aiming for better desktop/gaming experience. The provided patches can be enabled/disabled by editing the customization.cfg file and/or by following the interactive install script.
+- This repository provides scripts to automatically download, patch and compile the Linux Kernel from the official Linux git repository, with a selection of patches aiming for better desktop/gaming experience. The provided patches can be enabled/disabled by editing the customization.cfg file and/or by following the interactive install script.
 
 3. [Configure Your Own](https://youtu.be/NVWVHiLx1sU)
 - Kinda outdated, but its a decent base to see what you can do and how hard/easy it is.
