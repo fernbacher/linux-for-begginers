@@ -39,7 +39,7 @@ For people looking to join linux. This is not a spoonfeeding repository.
 - Most Windows-Like experience you can have, recommend it the most for new users that just want simplicity and to get rid of Windows.
 
 5. [Archcraft](https://archcraft.io/)
-- Archcraft is just another Linux distribution, made on top of Arch Linux, beautifully configured it will automatically give you the r/unixporn dream desktop you kept seeing on reddit.
+- Archcraft is just another Linux distribution, made on top of Arch Linux, beautifully configured it will automatically give you the r/unixporn dream desktop you kept seeing on reddit. **WARNING: Even for an advanced user, it's a pain in the ass to make it good. Very bloated for no reason, if the creator ever reads this, just make them scripts to install the DE/WM.**
 
 5. [Arch-Linux-GUI](https://archlinuxgui.in/)
 - There are multiple DE versions, aswell as 2 WM versions. If you want to use your keyboard alot more and not focus on GUI anymore, go for WM, also alot slimmer on resourcers.
@@ -162,7 +162,7 @@ For people looking to join linux. This is not a spoonfeeding repository.
 7. How can i extract a .tar.zst archive?
 - Run the command `tar -xvf yourarchivename.tar.zst`
 
-`Updated; 28.11.2021`
+`Updated; 02.12.2021`
 
  **Made with love for what Linux is about and what it offers us, by [Fernbacher](https://github.com/fernbacher).**
 
