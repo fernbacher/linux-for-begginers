@@ -53,6 +53,9 @@ For people looking to join linux. This is not a spoonfeeding repository.
 8. [Arch](https://archlinux.org/)
 - A simple, lightweight distribution
 
+9. [KaOS](https://kaosx.us/)
+- A lean KDE distribution, fully independent, built from scratch, focused on Qt and KDE, they are looking towards the Illumos kernel aswell.
+
 # Custom Kernel
 
 1. [Linux-Zen](https://github.com/zen-kernel/zen-kernel)
@@ -159,10 +162,10 @@ For people looking to join linux. This is not a spoonfeeding repository.
 6. Which Linux Distro should i install?
 - As a newbie, you should look forward to install something like [Manjaro](https://manjaro.org/), [PopOS](https://pop.system76.com/) or [Linux Mint](https://linuxmint.com/) after spending some time on it, you can see what Linux can be, by doing it yourself, installing [Debian](https://www.debian.org/), [Arch](https://archlinux.org/) or their system-d free versions linked [at the top](https://fernbacher.github.io/linux-for-begginers/#distros)
 
-7. How can i extract a .tar.zst archive?
+7. How can i extract a .tar archive?
 - Run the command `tar -xvf yourarchivename.tar.zst`
 
-`Updated; 02.12.2021`
+`Updated; 12.12.2021`
 
  **Made with love for what Linux is about and what it offers us, by [Fernbacher](https://github.com/fernbacher).**
 
