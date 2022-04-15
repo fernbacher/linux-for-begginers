@@ -3,8 +3,10 @@
 </h1>
 
 <h2 align="center">
-For people looking to join linux. This is not a spoonfeeding repository.
+For people looking to join linux. This is not a spoonfeeding repository, these are my recommendations
 </h2> 
+
+`Updated; 07.04.2022`
 
 # Quick Links
   [Reasons not to use Microsoft #](https://stallman.org/microsoft.html)
@@ -13,48 +15,47 @@ For people looking to join linux. This is not a spoonfeeding repository.
   
   [Reasons not to use Google #](https://stallman.org/google.html)
   
-  [Distros #](https://fernbacher.github.io/linux-for-begginers/#distros)
+  [Distros #](https://codeberg.org/fernbacher/Linux-For-Beginners#distros)
   
-  [Custom Kernel #](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
+  [Custom Kernel #](https://codeberg.org/fernbacher/Linux-For-Beginners#custom-kernel)
  
-  [Software #](https://fernbacher.github.io/linux-for-begginers/#software)
+  [Software #](https://codeberg.org/fernbacher/Linux-For-Beginners#software)
   
-  [Useful #](https://fernbacher.github.io/linux-for-begginers/#useful)
+  [Useful #](https://codeberg.org/fernbacher/Linux-For-Beginners#useful)
   
-  [Pacman Commands #](https://fernbacher.github.io/linux-for-begginers/#pacman-commands)
+  [Pacman Commands #](https://codeberg.org/fernbacher/Linux-For-Beginners#pacman-commands)
   
-  [Most Common Questions #](https://fernbacher.github.io/linux-for-begginers/#most-common-questions)
-  
+  [Most Common Questions #](https://codeberg.org/fernbacher/Linux-For-Beginners#most-common-questions)
   
  
 # Distros
 
 1. [Manjaro](https://manjaro.org/)
-- I recommend KDE/XFCE from the official editions.
+- Arch based, I recommend KDE/XFCE from the official editions. (Use as a learning distro)
 
-2. [Pop-OS](https://pop.system76.com/)
-- Nvidia version if you have NVIDIA GPU, obviously. Otherwise the normal one.
+2. [EndeavourOS](https://endeavouros.com/)
+- AntergOS continuation, very big and friendly community, Arch based with alot of flavours. (Use as a learning distro, but you can actually keep using this one)
 
-3. [Linux Mint](https://linuxmint.com/)
-- Most Windows-Like experience you can have, recommend it the most for new users that just want simplicity and to get rid of Windows.
+2. [Linux Mint](https://linuxmint.com/)
+- Most Windows-Like experience you can have, recommend it the most for new users that just want simplicity and to get rid of Windows (Use as a learning distro)
 
-4. [Arch-Linux-GUI](https://archlinuxgui.in/)
-- There are multiple DE versions, aswell as 2 WM versions. If you want to use your keyboard alot more, go for WM, also alot slimmer on resources.
-
-5. [Debian](https://www.debian.org/)
+3. [Debian](https://www.debian.org/)
 - Usually used for servers, it uses LTS (long term support) kernel, the base of ubuntu and many many others.
 
-6. [Devuan](https://www.devuan.org/)
+4. [Devuan](https://www.devuan.org/)
 - Debian without system-d [read about why system-d could be bloat for you](https://ebin.city/~werwolf/posts/systemd-sucks/).
 
-7. [Artix](https://artixlinux.org/)
+5. [Artix](https://artixlinux.org/)
 - Arch without system-d. [read about why system-d could be bloat for you, again](https://ebin.city/~werwolf/posts/systemd-sucks/).
 
-8. [Arch](https://archlinux.org/)
+6. [Arch](https://archlinux.org/)
 - A simple, lightweight distribution
 
-9. [KaOS](https://kaosx.us/)
+7. [KaOS](https://kaosx.us/)
 - A lean KDE distribution, fully independent, built from scratch, focused on Qt and KDE, they are looking towards the Illumos kernel aswell.
+
+8. [FedoraKDE](https://spins.fedoraproject.org/kde/)
+- Easy to use and to learn independent distro.
 
 # Custom Kernel
 
@@ -70,13 +71,10 @@ For people looking to join linux. This is not a spoonfeeding repository.
 3. [Configure Your Own](https://youtu.be/NVWVHiLx1sU)
 - Kinda outdated, but its a decent base to see what you can do and how hard/easy it is.
 
-4. [Clear-Linux](https://aur.archlinux.org/packages/linux-clear/)
-- The Clear Linux kernel and modules, from the AUR.
-
 # Software
 
 1. [NoiseTorch](https://github.com/lawl/NoiseTorch)
-- This is the first thing you should consider getting on Linux if you use a normal mic or a headset mic, removes every background noise possible, some microphones can suffer a degrading quality if not set up right.
+- Background noise removal from your microphone.
 
 2. [Lutris](https://lutris.net/)
 - Open source platform for gaming on linux, easy to download and install games from any platform with the help of the community installers / scripts.
@@ -87,16 +85,16 @@ For people looking to join linux. This is not a spoonfeeding repository.
 4. [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom)
 - Custom build of Valve's proton, multiple patches and fixes for steam games using proton.
 
-5. [Spotify-TUI](https://github.com/Rigellute/spotify-tui)
-- A spotify client in the terminal written in Rust.** **FOR PREMIUM ACCOUNTS ONLY**
+5. [Wine-TKG](https://github.com/Frogging-Family/wine-tkg-git)
+- Wine-tkg is a build-system aiming at easier custom wine builds creation. Includes several patches and much more for your convenience.
 
-6. [Spicetify-CLI](https://github.com/khanhas/spicetify-cli)
-- Command-line tool to customize the official Spotify client.
+6. [Bottles](https://github.com/bottlesdevs/Bottles)
+- Lutris alternative, in my experience alot better and way more simple.
 
 # Useful
 
-1. [yay](https://github.com/Jguer/yay)
-- An AUR Helper written in Go. [What is AUR?](https://wiki.archlinux.org/title/Arch_User_Repository)
+1. [yay](https://github.com/Morganamilo/paru)
+- Feature packed AUR helper. [What is AUR?](https://wiki.archlinux.org/title/Arch_User_Repository)
 
 2. [Arch-Wiki](https://wiki.archlinux.org/)
 - The official Arch Linux documentation webpage.
@@ -122,14 +120,14 @@ For people looking to join linux. This is not a spoonfeeding repository.
 9. [Chaotic AUR](https://aur.chaotic.cx/)
 - Automated building repository for AUR packages.
 
-10. [Wine-TKG](https://github.com/Frogging-Family/wine-tkg-git)
-- Wine-tkg is a build-system aiming at easier custom wine builds creation. You can now easily get the "plain wine + pba + steam fix" build. (Can be installed from Chaotic-AUR)
-
-11. [Dusk](https://github.com/bakkeby/dusk)
+10. [Dusk](https://github.com/bakkeby/dusk)
 - Just another fork of dwm. (Personally use it)
 
-12. [LARBS](https://larbs.xyz/)
+11. [LARBS](https://larbs.xyz/)
 - LARBS is an efficient shell script that will install a fully-featured tiling window manager-based system on any Arch or Artix Linux-based system, without any of the routine of manual post-install processes and configuration.
+
+12. [archfi](https://github.com/MatMoul/archfi)
+- A simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
 
 # Pacman Commands
 
@@ -145,7 +143,7 @@ For people looking to join linux. This is not a spoonfeeding repository.
 
 1. Do I Need To Use The Terminal In Linux?
 - Short answer, Yes.
-- Basic answer; You don't have to use it, but you should learn how to use it to an extent, it is about your full control over your Operating System, GUI applications can cover up terminal usage, but its not unlimited. Slowly but surely you should learn how to use the terminal for basic usage and even advanced.
+- Basic answer; You don't have to use it everytime, but you should learn how to use it to an extent, it is about your full control over your Operating System, GUI applications can cover up terminal usage, but its not unlimited. Slowly but surely you should learn how to use the terminal for basic usage and even advanced.
 
 2. What is [GNU](https://www.gnu.org/gnu/linux-and-gnu.en.html)/[Linux](https://www.linux.com/what-is-linux/), and why should/would i use it?
 - Click for information.
@@ -157,16 +155,10 @@ For people looking to join linux. This is not a spoonfeeding repository.
 - For this question i am going to link you towards the same channel with the calamares manual partitioning, here is the [video](https://www.youtube.com/watch?v=0mgefj9ibRE)
 
 5. Where can i find help for Linux?
-- Almost every distro has a wiki section, a forum, a server, or something to help you out, like the [Arch](https://fernbacher.github.io/linux-for-begginers/#useful) wiki linked above.
+- Almost every distro has a wiki section, a forum, a server, or something to help you out, like the [Arch](https://codeberg.org/fernbacher/Linux-For-Beginners#useful) wiki linked above.
 
 6. Which Linux Distro should i install?
-- As a newbie, you should look forward to install something like [Manjaro](https://manjaro.org/), [PopOS](https://pop.system76.com/) or [Linux Mint](https://linuxmint.com/) after spending some time on it, you can see what Linux can be, by doing it yourself, installing [Debian](https://www.debian.org/), [Arch](https://archlinux.org/) or their system-d free versions linked [at the top](https://fernbacher.github.io/linux-for-begginers/#distros)
+- As a newbie, you should look forward to install something like [Manjaro](https://manjaro.org/) or [Linux Mint](https://linuxmint.com/) after spending some time on it, you can see what Linux can be, by doing it yourself, installing [Debian](https://www.debian.org/), [Arch](https://archlinux.org/) or their system-d free versions linked [at the top](https://codeberg.org/fernbacher/Linux-For-Beginners#distros)
 
 7. How can i extract a .tar archive?
 - Run the command `tar -xvf yourarchivename.tar.zst`
-
-`Updated; 12.12.2021`
-
- **Made with love for what Linux is about and what it offers us, by [Fernbacher](https://github.com/fernbacher).**
-
- **Theme used; [Gesko by P0WEX](https://github.com/P0WEX/Gesko)**
