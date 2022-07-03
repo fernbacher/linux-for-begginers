@@ -6,7 +6,7 @@
 For people looking to join linux. This is not a spoonfeeding repository, these are my recommendations
 </h2> 
 
-`Updated; 07.04.2022`
+`Updated; 03.07.2022`
 
 # Quick Links
   [Reasons not to use Microsoft #](https://stallman.org/microsoft.html)
@@ -128,6 +128,9 @@ For people looking to join linux. This is not a spoonfeeding repository, these a
 
 12. [archfi](https://github.com/MatMoul/archfi)
 - A simple bash script wizard to install Arch Linux after you have booted on the official Arch Linux install media.
+
+13. [OpenRazer](https://openrazer.github.io/)
+- An entirely open source driver and user-space daemon that allows you to manage your Razer peripherals on GNU/Linux.
 
 # Pacman Commands
 
