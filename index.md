@@ -15,17 +15,17 @@ For people looking to join linux. This is not a spoonfeeding repository, these a
   
   [Reasons not to use Google #](https://stallman.org/google.html)
   
-  [Distros #](https://codeberg.org/fernbacher/Linux-For-Beginners#distros)
+  [Distros #](https://fernbacher.github.io/linux-for-begginers/#distros)
   
-  [Custom Kernel #](https://codeberg.org/fernbacher/Linux-For-Beginners#custom-kernel)
+  [Custom Kernel #](https://fernbacher.github.io/linux-for-begginers/#custom-kernel)
  
-  [Software #](https://codeberg.org/fernbacher/Linux-For-Beginners#software)
+  [Software #](https://fernbacher.github.io/linux-for-begginers/#software)
   
-  [Useful #](https://codeberg.org/fernbacher/Linux-For-Beginners#useful)
+  [Useful #](https://fernbacher.github.io/linux-for-begginers/#useful)
   
-  [Pacman Commands #](https://codeberg.org/fernbacher/Linux-For-Beginners#pacman-commands)
+  [Pacman Commands #](https://fernbacher.github.io/linux-for-begginers/#pacman-commands)
   
-  [Most Common Questions #](https://codeberg.org/fernbacher/Linux-For-Beginners#most-common-questions)
+  [Most Common Questions #](https://fernbacher.github.io/linux-for-begginers/#most-common-questions)
   
  
 # Distros
