@@ -1,1 +1,1 @@
-**[CHECK THE WEBSITE](https://fernbacher.github.io/linux-for-begginers/)**
+**[Blog](https://fernbacher.vercel.app)**
